@@ -1,6 +1,6 @@
-<img src="/images/Harvard.png" width=100px>
+<img src="/images/Harvard.png" width=100px style="text-align:center">
 
-# 2023-CS50x from Harvard
+<h1 align="center">2023-CS50x from Harvard</h1>
 
 ***This compilation represents my (longma1012)'s original completion of lab exercises and problem sets for the Harvard University's open course, CS50x. While it can be used as a reference, outright replication is discouraged.***
 
