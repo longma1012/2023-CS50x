@@ -1,4 +1,4 @@
-<img src="/images/Harvard.png" width=100px style="align:center">
+<p align="center"><img src="/images/Harvard.png" width=100px></p>
 
 <h1 align="center">2023-CS50x from Harvard</h1>
 
