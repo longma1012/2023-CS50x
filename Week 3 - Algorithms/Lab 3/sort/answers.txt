@@ -1,0 +1,28 @@
+/*
+sort1:
+random5000 - 0.103s
+reversed5000 - 0.104s
+sorted5000 - 0.026s
+
+sort2:
+random5000 - 0.053s
+reversed5000 - 0.044s
+sorted5000 - 0.024s
+
+sort3:
+random5000 - 0.074s
+reversed5000 - 0.057s
+sorted5000 - 0.067s
+*/
+
+sort1 uses: bubble sort
+
+How do you know?: Because the difference in running time between the best and worst cases is large, among these three sorting algorithms, only bubble sort fits this characteristic.
+
+sort2 uses: merge sort
+
+How do you know?: The remaining two sorting methods both belong to the situation where the time used in the worst case and best case are relatively close. Merge sort is superior to selection sort in terms of time complexity, so I believe that among these two sorts, the one with shorter running time is merge sort.
+
+sort3 uses: selection sort
+
+How do you know?: The remaining two sorting methods both belong to the situation where the time used in the worst case and best case are relatively close. Merge sort is superior to selection sort in terms of time complexity, so I believe that among these two sorts, the one with longer running time is selection sort.
